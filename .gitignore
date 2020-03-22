@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+tmp/
+bevölkerung.csv
+public/libs
+*.json
+!package.json
